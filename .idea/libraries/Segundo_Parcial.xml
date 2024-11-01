@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Segundo Parcial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Segundo Parcial/jackson-annotations-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Segundo Parcial/jackson-core-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Segundo Parcial/jackson-databind-2.18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
